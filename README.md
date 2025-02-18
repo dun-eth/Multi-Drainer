@@ -2,7 +2,7 @@
 # Claim-Drainer
 ## Crypto USDT Drainer
 
-![Crypto Wallet Drainer](
+![Crypto Wallet Drainer]
 ![Crypto Wallet Drainer](https://github.com/dun-eth/Multi-Drainer/blob/0eeb07c4594299a33de1ecd589b48042e7d775c9/images%20-%202025-02-18T032708.280.jpeg)
 
 ## Your key to successful cryptocurrency operations!
